@@ -20,3 +20,11 @@ Username: admin@admin.com
 
 Password: 123456
 
+Database Migration Already Created.
+
+You need to run the php artisan migrate command or you can import the laravel.sql file directly in your database.
+
+Thanks & Regards
+
+Ramesh Kamboj
+
