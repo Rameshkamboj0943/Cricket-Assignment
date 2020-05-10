@@ -24,6 +24,13 @@ Database Migration Already Created.
 
 You need to run the php artisan migrate command or you can import the laravel.sql file directly in your database.
 
+Vue Js:
+Please install the NPM.
+
+Install vue-router
+
+Install vuetify
+
 Thanks & Regards
 
 Ramesh Kamboj
